@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">降雨提醒</string>
+    <string name="widget_desc">12 小时内有雨时提醒你</string>
+</resources>
