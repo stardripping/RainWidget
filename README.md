@@ -9,6 +9,10 @@
 
 天气数据来自 [Open-Meteo](https://open-meteo.com/)，免费、无需 API Key。
 
+## 实际运行截图
+
+<img src="screenshots/running.jpg" width="300" alt="实际运行截图">
+
 ## 判断规则
 
 某小时满足任一条件即视为有雨：
