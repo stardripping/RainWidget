@@ -11,7 +11,13 @@
 
 ## 实际运行截图
 
-<img src="screenshots/running.jpg" width="300" alt="实际运行截图">
+有雨时的小组件卡片：
+
+<img src="screenshots/widget.jpg" width="300" alt="有雨时的小组件卡片">
+
+设置页：
+
+<img src="screenshots/running.jpg" width="300" alt="设置页">
 
 ## 判断规则
 
