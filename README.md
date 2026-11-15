@@ -50,6 +50,6 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 | `SettingsActivity.kt` | 设置页：定位、城市搜索、阈值、无雨时隐藏 |
 | `Prefs.kt` | SharedPreferences 存储 |
 
-## 三星等国产系统
+## 国行系统
 
 如果小组件长时间不更新，请在系统设置里把本应用的电池使用改为「不受限制」。
